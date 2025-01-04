@@ -8,7 +8,7 @@ It shows the Astronomy picture according to the current day.
 2. [Arjun Shiju](https://github.com/Godly-arj)
 
 ## Link to product walkthrough
-[link to video](Link Here)
+[link to video](https://drive.google.com/drive/folders/1f7PnC1x2zUjVueVSeUYow0bCXO4edHsl?usp=drive_link)
 
 ## How it Works ?
 1. Explaining the working of project
