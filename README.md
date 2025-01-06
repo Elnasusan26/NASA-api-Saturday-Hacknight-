@@ -34,13 +34,12 @@ It shows the Astronomy picture according to the current day.
    daily space discoveries!  
 
 
-2. Embed video of project demo
+
 
 ## Libraries used
-Library Name - Version
+HTML
+CSS
+JAVA SCRIPT 
 
-## How to configure
-Instructions for setting up project
-
-## How to Run
-Instructions for running
+##Deployed
+https://9llm4wvachlfzviz.vercel.app
