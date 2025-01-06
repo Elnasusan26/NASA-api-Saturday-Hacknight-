@@ -38,7 +38,9 @@ It shows the Astronomy picture according to the current day.
 
 ## Libraries used
 HTML
+
 CSS
+
 JAVA SCRIPT 
 
 ## Deployed 
